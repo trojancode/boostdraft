@@ -1,0 +1,10 @@
+[package]
+name = "boostdraft_coding_assignment"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "checker"
+path = "src/main.rs"
+
+[dependencies]
